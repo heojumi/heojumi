@@ -2,7 +2,8 @@
 
 
 
->🖊Tech stack🖊
+### 🖊Tech stack🖊
+>Tech that I've used at least once.
 <br>
 
 
